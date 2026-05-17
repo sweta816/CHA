@@ -1,17 +1,36 @@
+# Python cache
 **/**/__pycache__
+*.pyc
+*.pyo
+
+# Editor
 **/**/.vscode
 **/**/.DS_Store
 
+# Virtual environment
 venv
-data
+nutrimate_env/
+
+# API keys — NEVER commit
+.env
+
+# Node
 node_modules
 
-*.json
+# Build files
 CHA.egg-info/
+openCHA.egg-info/
 build
 dist
+
+# Models and audio
 models
 *.wav
 wav2vec2_checkpoints
 pretrained_models
-openCHA.egg-info
+
+# ChromaDB — builds locally
+nutrition_db/
+
+# Logs
+*.log
