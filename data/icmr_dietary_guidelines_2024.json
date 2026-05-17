@@ -1,0 +1,130 @@
+{
+  "topic": "ICMR-NIN Dietary Guidelines for Indians 2024",
+  "category": "icmr_dietary_guidelines",
+  "source": "Indian Council of Medical Research (ICMR) & National Institute of Nutrition (NIN), Government of India, May 2024",
+  "total_guidelines": 17,
+  "target": "indian_college_students",
+  "key_fact": "56.4% of India's disease burden is attributed to unhealthy dietary habits. A healthy diet and physical activity can reduce risk of type 2 diabetes, hypertension, and coronary heart disease by up to 80%.",
+  "chunks": [
+    {
+      "id": "icmr_001",
+      "heading": "Guideline 1 — Balanced Diet",
+      "content": "Consume a nutritionally adequate diet by choosing foods wisely from a variety of food groups to ensure balanced nutrition. No single food contains all essential nutrients. ICMR recommends sourcing macronutrients and micronutrients from a minimum of 8 food groups daily. For 2000 kcal daily intake: 250g cereals, 400g vegetables, 100g fruits, 85g pulses or eggs or meat, 35g nuts and seeds, 27g fats and oils. Cereal intake should be restricted to 45% of total energy, which is currently 50 to 70% in most Indians.",
+      "tags": ["balanced diet", "food groups", "calories", "cereals", "vegetables", "pulses", "nuts", "nutrition"]
+    },
+    {
+      "id": "icmr_002",
+      "heading": "Guideline 2 — Pregnancy and Lactation",
+      "content": "Pregnant and lactating women require additional nutritious food and care to support the health of both mother and child. Extra nutrition is needed during these phases to meet increased demands of the body. Iron, folic acid, calcium, and protein requirements increase significantly during pregnancy. Adequate nutrition during pregnancy prevents low birth weight and supports fetal development.",
+      "tags": ["pregnancy", "lactation", "women", "iron", "folic acid", "calcium"]
+    },
+    {
+      "id": "icmr_003",
+      "heading": "Guideline 3 — Breastfeeding",
+      "content": "Exclusively breastfeed infants for the first six months, then continue breastfeeding along with complementary foods until two years of age or beyond. Breast milk provides all essential nutrients for the first 6 months and supports immunity development in the infant.",
+      "tags": ["breastfeeding", "infants", "mother", "immunity"]
+    },
+    {
+      "id": "icmr_004",
+      "heading": "Guideline 4 — Complementary Feeding for Infants",
+      "content": "Introduce homemade, semi-solid complementary foods to infants after six months of age. These homemade foods are economical, easy to prepare, safe, and healthy. Packaged commercial baby foods should not replace homemade foods. Homemade options like dal water, rice kanji, mashed banana, and cooked vegetables are recommended.",
+      "tags": ["infants", "complementary feeding", "homemade food", "baby food"]
+    },
+    {
+      "id": "icmr_005",
+      "heading": "Guideline 5 — Child and Adolescent Nutrition",
+      "content": "Ensure children above two years and adolescents consume balanced diets to support optimal growth, development, and immune function, both in health and illness. Adolescents aged 10 to 19 years need higher amounts of calcium, iron, and protein due to rapid growth. Female adolescents need 21mg iron daily due to menstruation. Male adolescents need 17mg iron daily. Calcium requirement is 600mg daily for both. This guideline is directly relevant to Indian college students aged 18 to 25 years who are in late adolescence.",
+      "tags": ["adolescents", "growth", "iron", "calcium", "protein", "college students", "immunity"]
+    },
+    {
+      "id": "icmr_006",
+      "heading": "Guideline 6 — Vegetables and Legumes",
+      "content": "Eat plenty of vegetables, especially green leafy varieties, to obtain essential vitamins, minerals, and protect against micronutrient deficiencies and various diseases. Aim for at least 4 to 5 servings of fresh vegetables daily. Green leafy vegetables like spinach (palak), fenugreek (methi), and mustard greens (sarson) are rich in iron, calcium, and folate. Legumes including dal, rajma, chana, and moong are excellent sources of plant protein, fiber, and micronutrients. For Indian college students in hostel, always take the available green sabzi at mess even in small portions.",
+      "tags": ["vegetables", "green leafy vegetables", "legumes", "dal", "rajma", "palak", "iron", "calcium", "micronutrients", "hostel"]
+    },
+    {
+      "id": "icmr_007",
+      "heading": "Guideline 7 — Healthy Fats",
+      "content": "Use oils and fats in moderation. Choose a variety of oil seeds, nuts, and whole grains to meet daily requirements of fats and essential fatty acids. Limit use of refined or extracted oils. Recommended daily fat intake: 27g (about 3 to 4 teaspoons). Prefer groundnut oil, mustard oil, or coconut oil over refined vegetable oils. Nuts like groundnuts, walnuts, and almonds provide healthy fats. Groundnuts are the cheapest healthy fat source available in college canteens at Rs 10 to 15 per handful. Avoid excessive consumption of fried foods like samosa, puri, and pakoda.",
+      "tags": ["fats", "oils", "groundnuts", "nuts", "healthy fats", "fried food", "essential fatty acids"]
+    },
+    {
+      "id": "icmr_008",
+      "heading": "Guideline 8 — Protein Quality",
+      "content": "Obtain high-quality proteins and essential amino acids from a variety of food sources. Avoid protein supplements for building muscle mass. Complete protein can be obtained by combining plant sources: rice plus dal provides all essential amino acids. Animal sources like eggs, milk, curd, chicken, and fish provide complete protein. Eggs contain 6g protein each and are the most affordable complete protein source at Rs 6 to 8 per egg. Dal contains 7 to 9g protein per 100g cooked. Soya chunks contain 52g protein per 100g dry weight and are very affordable. Protein supplements are not necessary if diet is balanced.",
+      "tags": ["protein", "eggs", "dal", "soya", "muscle", "amino acids", "supplements", "complete protein"]
+    },
+    {
+      "id": "icmr_009",
+      "heading": "Guideline 9 — Obesity Prevention",
+      "content": "Adopt a healthy lifestyle to prevent abdominal obesity, overweight, and overall obesity, as excess fat is associated with increased risk of lifestyle diseases like diabetes, hypertension, and heart disease. BMI above 25 is overweight and above 30 is obese. Indian population is at higher risk of abdominal obesity even at lower BMI levels. Avoid consumption of excess sugary drinks, fried snacks, and refined carbohydrates. College students should avoid daily consumption of Maggi, chips, biscuits, and cold drinks as primary food sources.",
+      "tags": ["obesity", "BMI", "weight", "overweight", "diabetes", "fried snacks", "sugar", "Maggi"]
+    },
+    {
+      "id": "icmr_010",
+      "heading": "Guideline 10 — Physical Activity",
+      "content": "Be physically active and exercise regularly to maintain physical and mental fitness and promote good health. ICMR recommends minimum 30 minutes of moderate physical activity daily. Physical activity combined with a balanced diet can reduce risk of type 2 diabetes by 80% and significantly reduce hypertension and coronary heart disease risk. For college students: walking to classes, playing sports, cycling, yoga, or any active movement counts. Physical inactivity combined with poor nutrition is the leading cause of fatigue and poor concentration in college students.",
+      "tags": ["physical activity", "exercise", "fitness", "fatigue", "mental health", "diabetes prevention"]
+    },
+    {
+      "id": "icmr_011",
+      "heading": "Guideline 11 — Salt Intake",
+      "content": "Restrict salt (sodium chloride) intake as excessive consumption may lead to hypertension, heart disease, and stroke. ICMR recommends maximum 5g salt per day (about one teaspoon). Most Indians consume 8 to 10g salt daily which is double the recommended amount. Hostel mess food and street food (dhaba, canteen) often contain very high sodium. Avoid adding extra salt to food. Limit consumption of pickles, papads, chips, instant noodles (Maggi), and packaged salty snacks which are high in sodium.",
+      "tags": ["salt", "sodium", "hypertension", "blood pressure", "Maggi", "chips", "packaged food"]
+    },
+    {
+      "id": "icmr_012",
+      "heading": "Guideline 12 — Food Safety",
+      "content": "Consume safe and clean foods to avoid food-borne illnesses, chronic diseases, and malnutrition. Wash hands before eating and after toilet. Wash fruits and vegetables thoroughly before eating. Avoid eating cut fruits or uncovered food from street vendors. Check expiry dates on packaged foods. Store food at proper temperatures. College students eating from hostel mess should report if food smells or looks unusual. Avoid eating stale or leftover food kept for more than 4 to 6 hours at room temperature.",
+      "tags": ["food safety", "hygiene", "hand washing", "expiry date", "hostel", "street food", "food-borne illness"]
+    },
+    {
+      "id": "icmr_013",
+      "heading": "Guideline 13 — Cooking Methods",
+      "content": "Use appropriate pre-cooking and cooking methods to ensure healthy food preparation and preserve nutritional value. Boiling, steaming, and pressure cooking retain most nutrients. Avoid deep frying as it destroys vitamins and adds excess fat. Pre-soaking dal, legumes, and rice before cooking improves digestibility and reduces cooking time. Sprouting moong or chana before eating increases Vitamin C content and improves iron absorption. For college students who self-cook: prefer boiled eggs over fried eggs, steamed idli over fried puri, and cooked dal over fried snacks.",
+      "tags": ["cooking methods", "steaming", "boiling", "frying", "sprouting", "nutrients", "dal", "eggs", "self-cooking"]
+    },
+    {
+      "id": "icmr_014",
+      "heading": "Guideline 14 — Hydration",
+      "content": "Drink plenty of water to maintain good health and hydration. ICMR recommends 8 to 10 glasses (2 to 2.5 liters) of clean water daily. Dehydration causes fatigue, reduced concentration, headaches, and poor academic performance. Replace sugary drinks, cold drinks, and packaged juices with plain water. Coconut water, chaas (buttermilk), and nimbu pani are healthy hydration alternatives. College students often mistake dehydration for hunger and eat unnecessary snacks. Start the day with 2 glasses of water before breakfast.",
+      "tags": ["water", "hydration", "dehydration", "fatigue", "concentration", "sugary drinks", "chaas", "nimbu pani"]
+    },
+    {
+      "id": "icmr_015",
+      "heading": "Guideline 15 — Ultra-Processed Foods",
+      "content": "Minimize consumption of ultra-processed foods high in fat, sugar, and salt as regular intake increases the risk of non-communicable diseases. Ultra-processed foods include: instant noodles (Maggi), chips, biscuits, packaged namkeen, cold drinks, packaged juices, fast food (pizza, burger, fried chicken), energy drinks, and commercial bakery products. These foods are high in sodium, refined carbohydrates, and unhealthy fats while being low in protein, fiber, and micronutrients. College students who eat ultra-processed foods daily are at higher risk of obesity, fatigue, nutritional deficiency, and poor concentration. Replace evening snack of chips with groundnuts or sprouts chaat.",
+      "tags": ["ultra-processed food", "Maggi", "chips", "cold drinks", "fast food", "obesity", "junk food", "packaged food", "namkeen"]
+    },
+    {
+      "id": "icmr_016",
+      "heading": "Guideline 16 — Elderly Nutrition",
+      "content": "Include nutrient-rich foods in the diets of elderly individuals aged above 60 years, along with adequate physical activity, to support health and wellness. Elderly individuals need more calcium, Vitamin D, and protein to prevent bone loss and muscle wasting. Soft and easily digestible foods should be preferred. This guideline is for family members to help aging parents and grandparents maintain proper nutrition.",
+      "tags": ["elderly", "calcium", "vitamin D", "protein", "bone health", "aging"]
+    },
+    {
+      "id": "icmr_017",
+      "heading": "Guideline 17 — Food Labels",
+      "content": "Read food labels on packaged products to assess nutritional quality, safety, and make informed choices about ingredients, contents, and shelf life. Key things to check on food labels: total calories per serving, amount of sugar (avoid if more than 10g per serving), sodium content (avoid if more than 600mg per serving), trans fat (should be zero), ingredient list (first ingredient should not be sugar, refined flour, or oil), FSSAI mark (ensures food safety standards). College students buying packaged snacks should compare labels and choose options with less sugar, salt, and fat and more protein and fiber.",
+      "tags": ["food labels", "packaging", "sugar", "sodium", "calories", "FSSAI", "trans fat", "ingredients", "informed choice"]
+    },
+    {
+      "id": "icmr_018",
+      "heading": "Daily Food Plate — My Plate for the Day (ICMR 2024)",
+      "content": "ICMR 2024 introduced the My Plate for the Day model for Indians. For 2000 kcal daily: Cereals and millets 250g (choose whole grains like brown rice, jowar, bajra, ragi over white rice and maida). Vegetables 400g (include at least one green leafy vegetable daily). Fruits 100g (one medium fruit or one banana). Pulses, eggs, or meat 85g (one katori dal or one to two eggs or small portion of chicken). Nuts and seeds 35g (one handful of groundnuts, til, or mixed nuts). Fats and oils 27g (about 3 to 4 teaspoons). For Indian college students in hostel: dal plus rice plus one sabzi plus curd is a good base meal that meets most nutritional requirements when eaten consistently.",
+      "tags": ["my plate", "meal planning", "cereals", "vegetables", "pulses", "dal", "rice", "ragi", "jowar", "bajra", "hostel meal", "curd"]
+    },
+    {
+      "id": "icmr_019",
+      "heading": "ICMR Key Statistics and Disease Burden",
+      "content": "According to ICMR-NIN 2024, 56.4% of India's total disease burden is due to unhealthy dietary habits. A healthy diet combined with regular physical activity can prevent up to 80% of type 2 diabetes cases and significantly reduce risk of hypertension and coronary heart disease. India faces dual burden of malnutrition: undernutrition (thinness, stunting, micronutrient deficiency) on one side and overnutrition (obesity, diabetes) on the other. College students are at risk of both forms. 33% of college students in surveys are underweight while 7 to 10% are overweight. Iron deficiency affects 48% of female adolescents (CNNS 2016-18). Vitamin D deficiency affects up to 70% of Indian college students.",
+      "tags": ["disease burden", "malnutrition", "undernutrition", "obesity", "iron deficiency", "vitamin D", "college students", "statistics", "ICMR"]
+    },
+    {
+      "id": "icmr_020",
+      "heading": "Micronutrient Deficiencies in Indian College Students — ICMR Context",
+      "content": "ICMR-NIN identifies the following as most common micronutrient deficiencies among Indian adolescents and young adults: Iron deficiency causes fatigue, hair fall, pale skin, reduced concentration, and anemia. Women need 21mg daily, men need 17mg daily. Best Indian sources: rajma, chana dal, palak, jaggery, til, groundnuts, eggs. Vitamin D deficiency causes bone pain, fatigue, low immunity. Source: 15 to 20 minutes morning sunlight daily plus eggs and fortified milk. Calcium deficiency causes weak bones and muscle cramps. Need 600mg daily. Best sources: milk, curd, ragi, til, paneer. Vitamin B12 deficiency particularly affects vegetarians. Causes fatigue, tingling, poor memory. Sources: milk, curd, eggs, chicken. Protein deficiency causes hair fall, slow recovery, weak immunity. Need 46g for women and 54g for men daily. Sources: dal, eggs, curd, groundnuts, sprouts, soya.",
+      "tags": ["iron", "vitamin D", "calcium", "B12", "protein", "deficiency", "fatigue", "hair fall", "bone pain", "concentration", "rajma", "palak", "curd", "eggs", "ragi", "sprouts"]
+    }
+  ]
+}
