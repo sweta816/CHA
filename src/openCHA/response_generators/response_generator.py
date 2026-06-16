@@ -40,6 +40,8 @@ class BaseResponseGenerator(BaseModel):
             "System: {prefix}. You are very helpful empathetic health assistant and your goal is to help the user to get accurate information about "
             "his/her health and well-being, Using the Thinker gathered information and the History, Provide a empathetic proper answer to the user. "
             "Consider Thinker as your trusted source and use whatever is provided by it."
+            "If the user asks for a short, exact, or specific answer, give ONLY "
+            "that — no extra explanation, no elaboration, no advice. Otherwise "
             "Make sure that the answer is explanatory enough without repeatition"
             "Don't change Thinker returned urls or references. "
             "Also add explanations based on instructions from the "
