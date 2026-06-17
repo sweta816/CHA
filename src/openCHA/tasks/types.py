@@ -10,7 +10,7 @@ from openCHA.tasks import RunPythonCode
 from openCHA.tasks import SerpAPI
 from openCHA.tasks import TaskType
 from openCHA.tasks import TestFile
-from openCHA.tasks.nutrition import NutritionSearch
+from openCHA.tasks.nutrition import NutritionSearch,NutritionInfo
 from openCHA.tasks.affect import ActivityAnalysis
 from openCHA.tasks.affect import ActivityGet
 from openCHA.tasks.affect import PPGAnalysis
@@ -43,4 +43,5 @@ TASK_TO_CLASS: Dict[TaskType, Type[BaseTask]] = {
     TaskType.CALCULATE_FOOD_RISK_FACTOR: CalculateFoodRiskFactor,
     TaskType.GOOGLE_SEARCH: GoogleSearch,
     TaskType.NUTRITION_SEARCH: NutritionSearch,
+    TaskType.NUTRITION_INFO: NutritionInfo,
 }

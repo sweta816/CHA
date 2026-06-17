@@ -16,7 +16,7 @@ orchestrator = Orchestrator.initialize(
     datapipe_name=DatapipeType.MEMORY,
     response_generator_llm=LLMType.GROQ,
     response_generator_name=ResponseGeneratorType.BASE_GENERATOR,
-    available_tasks=["nutrition_search"],
+    available_tasks=["nutrition_search","nutrition_info"],
     verbose=False,
     groq_api_key=os.getenv("GROQ_API_KEY")
 )

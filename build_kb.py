@@ -31,6 +31,9 @@ for filename in os.listdir("./data"):
         continue
     with open(f"./data/{filename}", "r", encoding="utf-8") as f:
         data = json.load(f)
+    if "chunks" not in data:    
+        print(f"Skipped (no chunks key): {filename}")
+        continue
     for chunk in data["chunks"]:
         doc = Document(
             text=chunk["content"],

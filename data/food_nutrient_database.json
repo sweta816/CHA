@@ -1,0 +1,225 @@
+{
+  "source_note": "Approximate values consistent with ICMR-NIN Indian Food Composition Tables (IFCT) 2017 reference ranges and commonly cited Indian nutrition references. For lab-precise clinical figures, consult the official IFCT 2017 (nin.res.in/ebooks/IFCT2017.pdf) directly.",
+  "foods": [
+    {
+      "name": "rice",
+      "aliases": ["chawal", "cooked rice", "white rice"],
+      "serving": "1 katori cooked (~100g)",
+      "calories": 130,
+      "protein_g": 2.7,
+      "carbs_g": 28.0,
+      "fat_g": 0.3,
+      "iron_mg": 0.2,
+      "calcium_mg": 10
+    },
+    {
+      "name": "roti",
+      "aliases": ["chapati", "wheat roti", "phulka"],
+      "serving": "1 medium roti (~30g)",
+      "calories": 80,
+      "protein_g": 2.6,
+      "carbs_g": 16.0,
+      "fat_g": 0.6,
+      "iron_mg": 0.9,
+      "calcium_mg": 9
+    },
+    {
+      "name": "wheat flour",
+      "aliases": ["atta", "gehu ka atta"],
+      "serving": "100g",
+      "calories": 340,
+      "protein_g": 12.0,
+      "carbs_g": 70.0,
+      "fat_g": 1.5,
+      "iron_mg": 4.9,
+      "calcium_mg": 30
+    },
+    {
+      "name": "chana dal",
+      "aliases": ["bengal gram dal", "chana ki dal"],
+      "serving": "1 katori cooked (~100g)",
+      "calories": 120,
+      "protein_g": 7.0,
+      "carbs_g": 20.0,
+      "fat_g": 1.5,
+      "iron_mg": 2.0,
+      "calcium_mg": 30
+    },
+    {
+      "name": "arhar dal",
+      "aliases": ["tur dal", "toor dal", "pigeon pea dal"],
+      "serving": "1 katori cooked (~100g)",
+      "calories": 117,
+      "protein_g": 7.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.4,
+      "iron_mg": 1.7,
+      "calcium_mg": 25
+    },
+    {
+      "name": "moong dal",
+      "aliases": ["mung dal", "green gram dal"],
+      "serving": "1 katori cooked (~100g)",
+      "calories": 105,
+      "protein_g": 7.0,
+      "carbs_g": 19.0,
+      "fat_g": 0.4,
+      "iron_mg": 1.4,
+      "calcium_mg": 27
+    },
+    {
+      "name": "masoor dal",
+      "aliases": ["red lentil dal", "lentil dal"],
+      "serving": "1 katori cooked (~100g)",
+      "calories": 116,
+      "protein_g": 9.0,
+      "carbs_g": 20.0,
+      "fat_g": 0.4,
+      "iron_mg": 3.3,
+      "calcium_mg": 19
+    },
+    {
+      "name": "egg",
+      "aliases": ["boiled egg", "anda"],
+      "serving": "1 medium boiled egg (~50g)",
+      "calories": 78,
+      "protein_g": 6.3,
+      "carbs_g": 0.6,
+      "fat_g": 5.3,
+      "iron_mg": 0.9,
+      "calcium_mg": 25
+    },
+    {
+      "name": "milk",
+      "aliases": ["doodh", "cow milk", "buffalo milk"],
+      "serving": "1 glass (~200ml)",
+      "calories": 120,
+      "protein_g": 6.4,
+      "carbs_g": 9.6,
+      "fat_g": 6.4,
+      "iron_mg": 0.1,
+      "calcium_mg": 240
+    },
+    {
+      "name": "curd",
+      "aliases": ["dahi", "yogurt"],
+      "serving": "1 katori (~100g)",
+      "calories": 60,
+      "protein_g": 3.1,
+      "carbs_g": 4.7,
+      "fat_g": 4.0,
+      "iron_mg": 0.1,
+      "calcium_mg": 120
+    },
+    {
+      "name": "sattu",
+      "aliases": ["roasted gram flour", "chana sattu"],
+      "serving": "100g dry powder",
+      "calories": 360,
+      "protein_g": 20.0,
+      "carbs_g": 57.0,
+      "fat_g": 5.0,
+      "iron_mg": 5.0,
+      "calcium_mg": 50
+    },
+    {
+      "name": "makhana",
+      "aliases": ["fox nuts", "lotus seeds", "phool makhana"],
+      "serving": "100g roasted",
+      "calories": 347,
+      "protein_g": 9.7,
+      "carbs_g": 76.0,
+      "fat_g": 0.1,
+      "iron_mg": 1.4,
+      "calcium_mg": 60
+    },
+    {
+      "name": "banana",
+      "aliases": ["kela"],
+      "serving": "1 medium (~100g)",
+      "calories": 89,
+      "protein_g": 1.1,
+      "carbs_g": 23.0,
+      "fat_g": 0.3,
+      "iron_mg": 0.3,
+      "calcium_mg": 5
+    },
+    {
+      "name": "peanuts",
+      "aliases": ["groundnut", "moongphali"],
+      "serving": "1 handful (~30g)",
+      "calories": 170,
+      "protein_g": 7.8,
+      "carbs_g": 6.0,
+      "fat_g": 14.6,
+      "iron_mg": 1.3,
+      "calcium_mg": 25
+    },
+    {
+      "name": "potato",
+      "aliases": ["aloo"],
+      "serving": "1 medium boiled (~100g)",
+      "calories": 87,
+      "protein_g": 1.9,
+      "carbs_g": 20.0,
+      "fat_g": 0.1,
+      "iron_mg": 0.8,
+      "calcium_mg": 8
+    },
+    {
+      "name": "spinach",
+      "aliases": ["palak", "spinach sabzi"],
+      "serving": "1 katori cooked (~100g)",
+      "calories": 23,
+      "protein_g": 2.9,
+      "carbs_g": 3.6,
+      "fat_g": 0.4,
+      "iron_mg": 2.7,
+      "calcium_mg": 99
+    },
+    {
+      "name": "ragi",
+      "aliases": ["finger millet", "ragi atta", "ragi flour"],
+      "serving": "100g flour",
+      "calories": 328,
+      "protein_g": 7.3,
+      "carbs_g": 72.0,
+      "fat_g": 1.3,
+      "iron_mg": 3.9,
+      "calcium_mg": 344
+    },
+    {
+      "name": "bajra",
+      "aliases": ["pearl millet", "bajra atta", "bajra flour"],
+      "serving": "100g flour",
+      "calories": 361,
+      "protein_g": 11.6,
+      "carbs_g": 67.0,
+      "fat_g": 5.0,
+      "iron_mg": 8.0,
+      "calcium_mg": 42
+    },
+    {
+      "name": "jowar",
+      "aliases": ["sorghum", "jowar atta", "jowar flour"],
+      "serving": "100g flour",
+      "calories": 349,
+      "protein_g": 10.4,
+      "carbs_g": 73.0,
+      "fat_g": 1.7,
+      "iron_mg": 4.1,
+      "calcium_mg": 25
+    },
+    {
+      "name": "jaggery",
+      "aliases": ["gur"],
+      "serving": "1 small piece (~20g)",
+      "calories": 77,
+      "protein_g": 0.1,
+      "carbs_g": 19.8,
+      "fat_g": 0.0,
+      "iron_mg": 2.3,
+      "calcium_mg": 16
+    }
+  ]
+}
