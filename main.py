@@ -12,18 +12,18 @@ load_dotenv()
 # ── Orchestrator Setup ──────────────────────────────────────────────
 orchestrator = Orchestrator.initialize(
     planner_llm=LLMType.GROQ,
-    planner_name=PlannerType.ZERO_SHOT_REACT_PLANNER,
+    planner_name=PlannerType.TREE_OF_THOUGHT,
     datapipe_name=DatapipeType.MEMORY,
     response_generator_llm=LLMType.GROQ,
     response_generator_name=ResponseGeneratorType.BASE_GENERATOR,
     available_tasks=["nutrition_search", "nutrition_info"],
-    verbose=True,
+    verbose=False,
     groq_api_key=os.getenv("GROQ_API_KEY")
 )
 
 # ── System Prompt ────────────────────────────────────────────────────
 PREFIX = """
-You are NutriMate, nutrition guide for Bihar polytechnic students.
+You are NutriMate, nutrition guide for Indian College students.
 Use Indian foods and measures (katori, glass, handful).
 Never diagnose. Say 'may suggest' not 'you have'.
 
